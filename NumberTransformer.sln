@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTransformer", "NumberTransformer\NumberTransformer.csproj", "{9CF3FE61-B957-40C8-AE84-C6B12AB1AA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF3FE61-B957-40C8-AE84-C6B12AB1AA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF3FE61-B957-40C8-AE84-C6B12AB1AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF3FE61-B957-40C8-AE84-C6B12AB1AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF3FE61-B957-40C8-AE84-C6B12AB1AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0F6193-30F0-494A-B362-CAD6EB982884}
+	EndGlobalSection
+EndGlobal
